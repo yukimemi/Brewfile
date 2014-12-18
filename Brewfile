@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install atom
 cask install bettertouchtool
 cask install caffeine
 cask install dropbox
