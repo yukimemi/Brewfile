@@ -42,7 +42,7 @@ install coreutils
 install cscope
 install ctags
 install fontconfig
-install fontforge --with-python
+install fontforge
 install freetype
 install gdbm
 install gettext
@@ -86,7 +86,7 @@ install tmux
 install watch
 install xz
 install youtube-dl
-install zsh --disable-etcdir --disable-etcdir
+install zsh --disable-etcdir
 install zsh-completions
 
 # App Store applications
