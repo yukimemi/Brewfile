@@ -21,6 +21,7 @@ cask install macwinzipper
 cask install nosleep
 cask install quicksilver
 cask install seil
+cask install xtrafinder
 
 ## homebrew/dupes
 tap homebrew/dupes
