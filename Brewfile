@@ -21,6 +21,7 @@ cask install macwinzipper
 cask install nosleep
 cask install quicksilver
 cask install seil
+cask install teamviewer
 cask install xtrafinder
 
 ## homebrew/dupes
@@ -84,6 +85,7 @@ install rmtrash
 install sqlite
 install ssh-copy-id
 install the_silver_searcher
+install tig
 install tmux
 install watch
 install xz
