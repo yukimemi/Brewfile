@@ -36,6 +36,10 @@ install brew-file
 tap sanemat/font
 install ricty
 
+## yukimemi/custom
+tap yukimemi/custom
+install tmux-patched
+
 # Other Homebrew packages
 install autoconf
 install automake
@@ -44,6 +48,7 @@ install cairo
 install coreutils
 install cscope
 install ctags
+install czmq
 install fontconfig
 install fontforge
 install freetype
@@ -55,7 +60,7 @@ install git-now
 install glib
 install gmp
 install gnu-getopt
-install go --cross-compile-common
+install go --cross-compile-common --cross-compile-common
 install gobject-introspection
 install harfbuzz
 install icu4c
@@ -90,6 +95,7 @@ install tmux
 install watch
 install xz
 install youtube-dl
+install zeromq
 install zsh --disable-etcdir
 install zsh-completions
 
