@@ -43,7 +43,6 @@ install tmux-patched
 # Other Homebrew packages
 install autoconf
 install automake
-install cabal-install
 install cairo
 install coreutils
 install cscope
@@ -60,7 +59,7 @@ install git-now
 install glib
 install gmp
 install gnu-getopt
-install go --cross-compile-common --cross-compile-common
+install go --cross-compile-common
 install gobject-introspection
 install harfbuzz
 install icu4c
@@ -91,7 +90,6 @@ install sqlite
 install ssh-copy-id
 install the_silver_searcher
 install tig
-install tmux
 install watch
 install xz
 install youtube-dl
