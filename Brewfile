@@ -4,8 +4,10 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install appcleaner
 cask install atom
 cask install bettertouchtool
+cask install bittorrent-sync
 cask install caffeine
 cask install dropbox
 cask install evernote
