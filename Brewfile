@@ -61,7 +61,6 @@ install git-now
 install glib
 install gmp
 install gnu-getopt
-install go --cross-compile-common
 install gobject-introspection
 install harfbuzz
 install icu4c
