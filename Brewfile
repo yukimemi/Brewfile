@@ -16,6 +16,7 @@ cask install flash
 cask install flux
 cask install google-chrome
 cask install google-drive
+cask install google-hangouts
 cask install google-japanese-ime
 cask install iterm2
 cask install karabiner
@@ -42,6 +43,7 @@ install brew-file
 
 ## sanemat/font
 tap sanemat/font
+install ricty
 
 ## yukimemi/custom
 tap yukimemi/custom
@@ -111,7 +113,6 @@ install zsh --disable-etcdir
 install zsh-completions
 
 # App Store applications
-appstore iMovie
-appstore iPhoto
-appstore LINE
+appstore Microsoft Remote Desktop
 appstore Xcode
+appstore XnSketch
