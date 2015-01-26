@@ -114,5 +114,6 @@ install zsh-completions
 
 # App Store applications
 appstore Microsoft Remote Desktop
+appstore Twitter
 appstore Xcode
 appstore XnSketch
