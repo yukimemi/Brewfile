@@ -102,6 +102,7 @@ install sqlite
 install ssh-copy-id
 install the_silver_searcher
 install tig
+install tree
 install watch
 install wget
 install x264
@@ -114,6 +115,7 @@ install zsh-completions
 
 # App Store applications
 appstore Microsoft Remote Desktop
+appstore Pushbullet
 appstore Twitter
 appstore Xcode
 appstore XnSketch
