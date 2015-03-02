@@ -65,6 +65,7 @@ install freetype
 install gdbm
 install gettext
 install ghc
+install gibo
 install git
 install git-now
 install glib
