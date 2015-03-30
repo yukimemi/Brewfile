@@ -13,6 +13,7 @@ cask install dropbox
 cask install evernote
 cask install firefox
 cask install flash
+cask install flashlight
 cask install flux
 cask install google-chrome
 cask install google-drive
@@ -87,6 +88,7 @@ install lv
 install macvim --HEAD --with-lua --override-system-vim
 install mercurial
 install mobile-shell
+install mplayer
 install nkf
 install openssl
 install ossp-uuid
@@ -109,6 +111,7 @@ install wget
 install x264
 install xvid
 install xz
+install yasm
 install youtube-dl
 install zeromq
 install zsh --disable-etcdir
