@@ -58,6 +58,7 @@ install coreutils
 install cscope
 install ctags
 install czmq
+install exiftool
 install faac
 install ffmpeg
 install fontconfig
@@ -118,8 +119,11 @@ install zsh --disable-etcdir
 install zsh-completions
 
 # App Store applications
+appstore iMovie
+appstore iPhoto
+appstore LINE
 appstore Microsoft Remote Desktop
+appstore Pocket
 appstore Pushbullet
 appstore Twitter
 appstore Xcode
-appstore XnSketch
